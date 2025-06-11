@@ -1,0 +1,21 @@
+{
+  "name": "Sambo Sopheakline Portfolio",
+  "short_name": "Portfolio",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#149ddd",
+  "theme_color": "#149ddd",
+  "description": "Portfolio of Sambo Sopheakline, a Computer Science student at CADT.",
+  "icons": [
+    {
+      "src": "assets/img/favicon.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/img/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
